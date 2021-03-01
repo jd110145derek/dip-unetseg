@@ -8,8 +8,9 @@
 
 * GUI
 
-  ![](https://i.imgur.com/iaAP0uX.png)
+  ![](https://i.imgur.com/fcHjkM9.png)
 
+* Process
   ![](https://i.imgur.com/2a1QNGl.png)
 
   ![](https://i.imgur.com/ubfGcDB.png)
