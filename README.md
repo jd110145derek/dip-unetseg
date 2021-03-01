@@ -1,11 +1,14 @@
 # medical-image-segmentation
-## method
-我選用的方法是利用深度學習去進行Carpal Tunnel, Flexor Tendons, Median nerve區域的切割，採用的模型是Unet
+## Method
+* I  use deep learning to do the image segmentation, in order to disinguish organization of the wrist(Carpal Tunnel, Flexor Tendons, Median nerve)
+## Model Unet
 ![](https://i.imgur.com/vjOnxrk.png)
 
-## reslut
+## Reslut
+*　GUI
+![](https://i.imgur.com/iaAP0uX.png)
+
 ![](https://i.imgur.com/2a1QNGl.png)
 
 ![](https://i.imgur.com/ubfGcDB.png)
 
-![](https://i.imgur.com/iaAP0uX.png)
