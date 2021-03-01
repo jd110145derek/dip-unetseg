@@ -1,0 +1,7 @@
+tenserflow-gpu
+PyQt5
+opencv-contrib-python
+pillow
+scikit-image
+numpy
+medpy
