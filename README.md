@@ -5,10 +5,12 @@
 ![](https://i.imgur.com/vjOnxrk.png)
 
 ## Reslut
-*　GUI
-![](https://i.imgur.com/iaAP0uX.png)
 
-![](https://i.imgur.com/2a1QNGl.png)
+* GUI
 
-![](https://i.imgur.com/ubfGcDB.png)
+  ![](https://i.imgur.com/iaAP0uX.png)
+
+  ![](https://i.imgur.com/2a1QNGl.png)
+
+  ![](https://i.imgur.com/ubfGcDB.png)
 
