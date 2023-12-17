@@ -1,6 +1,6 @@
 # DIP-unetseg
 ## Method
-* I  use deep learning to do the image segmentation, in order to disinguish organization of the wrist(Carpal Tunnel, Flexor Tendons, Median nerve)
+* I use deep learning for image segmentation to distinguish the organization of the wrist (Carpal Tunnel, Flexor Tendons, Median Nerve).
 ## Model Unet
 ![](https://i.imgur.com/vjOnxrk.png)
 
